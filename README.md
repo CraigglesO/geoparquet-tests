@@ -29,6 +29,7 @@ All benchmarks and work were done on an M3 Macbook Pro with 18 GB of Ram and 12 
 ### Zip Code Boundaries
 
 Total Size Shapefile: 87M
+
 Total Size Parquet: 97M
 
 ```shell
@@ -56,6 +57,7 @@ python3 read.py  0.73s user 2.70s system 657% cpu 0.522 total
 ### Water Polygons
 
 Total Size Shapefile: 1.1G
+
 Total Size Parquet: 1.0G
 
 ```shell
